@@ -20,7 +20,7 @@ title                    : "無彩色의 블로그"
 title_separator          : "-"
 subtitle                 : "Let's do it!"# site tagline that appears below site title in masthead
 name                     : "Achromatica"
-description              : "An amazing website."
+description              : "無彩色의 블로그입니다."
 url                      : "https://Moon830.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
