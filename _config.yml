@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dark" # "default", "aqua", "contrast", "air", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Quantmoon의 블로그"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+subtitle                 : "do it!"# site tagline that appears below site title in masthead
+name                     : "Achromatica"
 description              : "An amazing website."
 url                      : "https://Moon830.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
